@@ -57,3 +57,7 @@ Brief
 
 To ease the classification of canines that are eligible for search-and-rescue training, the Grazioso Salvare Dashboard project intends to provide a web interface that is comfortable for users to navigate. To gain access to pertinent data, Grazioso Salvare, an international corporation that specializes in the training of rescue animals, works in conjunction with a non-profit organization that operates an animal shelter in the Austin, Texas area. The dashboard gives users the ability to select dogs according to the sorts of rescues they are interested in, read information that is specific to the dogs, and display breed distributions and geographic regions.
 The approach of the project; tools and techniques used; as well as procedures and steps are detailed in the Enhancement on Database Project and the zipped folder GraziosoSalvareProject.   
+
+# Code Review Video
+
+https://youtu.be/ug6bHyrHAsw
